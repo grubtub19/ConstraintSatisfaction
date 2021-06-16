@@ -1,4 +1,4 @@
-# ConstraintSatisfaction
+# Constraint Satisfaction Solver
 A General Constraint Satisfaction Problem Solver using Backtracking, Forward Checking, and AC3 algorithms. Included are Minimum Remaining Values and Degree heuristics.
 
 ## Implementation Details and Report
