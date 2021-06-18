@@ -11,4 +11,4 @@ https://docs.google.com/document/d/1SQna0kNjJIpoQXjlgvk0aLLl3Tw29b6FTVVwNjwV48w/
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/1200px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png" height="500px" width="500px">
 
-<img src="https://www.preprints.org/img/dyn_abstract_figures/2018/05/c1c5d5dca13ea16039306d2e2f88852c/graphical.v1.png" height="500px" width="500px">
+<img src="https://www.preprints.org/img/dyn_abstract_figures/2018/05/c1c5d5dca13ea16039306d2e2f88852c/graphical.v1.png" width="500px">
